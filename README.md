@@ -46,3 +46,9 @@ original trinity — **Blackhujus** (Tank/Brute), **Mr. PING** (Rogue/Acrobat) a
   Berlin–Paris · NYC). Fifteen episodes, three endings, an UNDERGRID second map
   layer, and a compliance boss you beat with a summons. Carries all Campaign 2
   guardrails plus tunnel-specific ones. Pitch: *"Every stolen car was a brick."*
+- **`docs/ST19_THE_GEM_UNDER_ISSAN.md`** — HOLLOW's first side-thread: a border
+  colonel held as the ring's oldest memory-product subject guards a forest
+  installation over a fictional gem cache. Merhujus lead, PING shadow; won by
+  Dose Clocks, Dignity-Rules escort and a donation-ledger reconciliation — no
+  HP bars, no real religion, no real geography. Tagline: *"He never locked the
+  gate. He never knew there was one."*
