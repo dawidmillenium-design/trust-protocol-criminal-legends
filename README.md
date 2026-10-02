@@ -34,3 +34,15 @@ original trinity — **Blackhujus** (Tank/Brute), **Mr. PING** (Rogue/Acrobat) a
   shot list, poster language for the three hero key arts, and the score bible —
   with a guardrail-compliance checklist. Pitch: *"Steal the ledger before the
   ledger steals your memory."*
+- **`docs/HERO_SPLIT.md`** — the billing matrix: every mission M0–M26 and thread
+  ST-1…18 assigned exactly one MAIN hero with the other two as sub-heroes
+  (The Warrant / The Wall / The Shadow). Film I belongs to Blackhujus,
+  Film II to Merhujus, Film III to Mr. PING.
+
+## Next Episode — ★ TOP SECRET ★ "HOLLOW" (Campaign 3)
+- **`docs/NEXT_EPISODE_TOP_SECRET_TUNNELS.md`** — classified Meridian annex: the
+  stolen cars and motorcycle parts were never sold — they were **buried**, welded
+  into a fictional five-ring tunnel network (Vietnam · Pakistan · Russia ·
+  Berlin–Paris · NYC). Fifteen episodes, three endings, an UNDERGRID second map
+  layer, and a compliance boss you beat with a summons. Carries all Campaign 2
+  guardrails plus tunnel-specific ones. Pitch: *"Every stolen car was a brick."*
