@@ -196,6 +196,14 @@ ul {
   margin: -4px 0 4px 22px;
 }
 
+.hero-cash {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--green);
+  margin-left: auto;
+  padding-right: 8px;
+}
+
 .status-pill {
   font-size: 0.75rem;
   padding: 4px 8px;
