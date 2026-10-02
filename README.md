@@ -52,11 +52,17 @@ original trinity — **Blackhujus** (Tank/Brute), **Mr. PING** (Rogue/Acrobat) a
   Dose Clocks, Dignity-Rules escort and a donation-ledger reconciliation — no
   HP bars, no real religion, no real geography. Tagline: *"He never locked the
   gate. He never knew there was one."*
+- **`docs/ST20_BUNNY_HUNT.md`** — the finale dossier: the hunt for BUNNY, the
+  ring's round-robin reservation ledger, across Heathrow arrivals, Guangzhou
+  transit and Batumi's boulevard hotels — ending at ST-16's Quiet Hotel, where
+  the night porters' lost-property register is the most honest book in Georgia.
+  Strict airport guardrails (zero security subject matter, landside-only,
+  authority-cooperative). Tagline: *"Every bunny has a den. Ours has a concierge."*
 
 ## Codex — collectibles
 - **`docs/THE_BANANA_FILES.md`** — the intercepted voice memos of Merhujus and
   Blackhujus: the Cancún incident (a black banana photo, a five-proxy VPN chain,
   and one very confused American tourist named Gary), the laminated peel, cargo
-  vs. cabin, "the ledger" as a banana variety, and nine more intercepts that
-  make the Meridian analyst regret her career. Unlockable codex cards; humour
-  boundary enforced by the drop table.
+  vs. cabin, "the ledger" as a banana variety, the Warsaw "glocalization" case,
+  and more intercepts that make the Meridian analyst regret her career.
+  Unlockable codex cards; humour boundary enforced by the drop table.
