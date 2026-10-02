@@ -52,3 +52,11 @@ original trinity — **Blackhujus** (Tank/Brute), **Mr. PING** (Rogue/Acrobat) a
   Dose Clocks, Dignity-Rules escort and a donation-ledger reconciliation — no
   HP bars, no real religion, no real geography. Tagline: *"He never locked the
   gate. He never knew there was one."*
+
+## Codex — collectibles
+- **`docs/THE_BANANA_FILES.md`** — the intercepted voice memos of Merhujus and
+  Blackhujus: the Cancún incident (a black banana photo, a five-proxy VPN chain,
+  and one very confused American tourist named Gary), the laminated peel, cargo
+  vs. cabin, "the ledger" as a banana variety, and nine more intercepts that
+  make the Meridian analyst regret her career. Unlockable codex cards; humour
+  boundary enforced by the drop table.
