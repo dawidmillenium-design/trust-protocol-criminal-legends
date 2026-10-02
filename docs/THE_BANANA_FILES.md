@@ -215,12 +215,81 @@ party, which is his natural habitat.
 
 ---
 
+## FILE 11 — THE GLOCALIZATION *(the Warsaw withdrawal)*
+
+> **MERHUJUS:** *"New protective-custody case. A Warsaw blogger — finance and
+> travel content, fifty thousand followers — withdraws ten thousand dollars at
+> his bank. Cash. Then he posts about it."*
+>
+> **BLACKHUJUS:** *"he posts. about the money. with the money."*
+>
+> **MERHUJUS:** *"Geotagged. Timestamped. His street, his gym, his dog's name.
+> He calls his lifestyle brand 'glocalization' — his life is local, his data is
+> global. Blackhujus, his data is *galactic*."*
+>
+> **BLACKHUJUS:** *"and somebody is reading."*
+>
+> **MERHUJUS:** *"A crew out of Mokotów. Fictional-name status pending. They run
+> socio-geo-engineering — three weeks of his posts become a map of his flat, his
+> schedule, his sister's doorbell camera. Very professional. Very modern."*
+>
+> **BLACKHUJUS:** *"we stop them how."*
+>
+> **MERHUJUS:** *"We already did. He has been a Meridian contact for four months.
+> I have been laundering his metadata through my proxy chain. Their geofence of
+> his apartment resolves to a police impound lot in Praga. Their model of his
+> daily routine is, for reasons I will not explain, *Gary's beach in Cancún*."*
+>
+> **BLACKHUJUS:** *"they cased a beach in mexico for three weeks."*
+>
+> **MERHUJUS:** *"Sunburn, three of them. One bought a hammock. Their report to
+> the desk says the target is 'unusually relaxed'."*
+>
+> **BLACKHUJUS** [delighted]: *"and the money?"*
+>
+> **MERHUJUS:** *"That is the actual punchline. The bank gave him **old,
+> uncirculated banknotes** — pristine, decades old, sequential serials. Face
+> value ten thousand. Collector value nearly forty. The gang's whole
+> socio-geo operation — the servers, the burner phones, the hammock — was built
+> to rob a man whose cash got *more valuable* the longer they watched him."*
+>
+> **BLACKHUJUS:** *"they stole nothing?"*
+>
+> **MERHUJUS:** *"They stole the decoy envelope. It contained Gary's postcards.
+> Fruit-themed. They were arrested at the airport arguing about whether the
+> postcards were 'some kind of coded ledger'."*
+>
+> **BLACKHUJUS:** *"they were not wrong. everything is a ledger. I have been
+> saying this."*
+>
+> **MERHUJUS:** *"The blogger is a witness now. His first statement is forty
+> pages long because he kept trying to monetise it. The old banknotes are in
+> evidence bag 11-C. Gary's postcards are in evidence bag 11-G."*
+>
+> **BLACKHUJUS:** *"G is for—"*
+>
+> **MERHUJUS:** *"Do not."*
+>
+> **MERIDIAN ANALYST NOTE:** the blogger has asked whether witness protection
+> supports brand partnerships. The answer is being laminated.
+
+---
+
 ## CODEX CARD — COLLECTIBLE RULES (build notes)
 
 - Each FILE unlocks as a **voice-memo item** drop; File 01 (Cancún) is the
   guaranteed first unlock and sets the collectible's tone.
 - Gary (American tourist, protective custody, Cancún) becomes a recurring codex
   presence: one postcard per act, always fruit-adjacent, never explained further.
+- File 11 (The Glocalization) is the rarest drop: it requires the player to have
+  both the FRUIT PROTOCOL postcard and File 06 (The Proxy Pizza), because Gary
+  is load-bearing. Its unlock grants the codex entry **"Bank Tysiąclecia
+  (fictional)"** — the campaign's naming-hygiene footnote that no real bank,
+  district crew or platform appears in any thread (extends BLOCKBUSTER_CUT §9.5).
+- File 11's gang plot is a **foiled-off-screen** event: the crew's plan is
+  narrated as intent, intercepted before any harm, and resolved by paperwork and
+  one hammock. Complies with the civilian-violence boundary — nobody is harmed
+  in a Banana File, ever; the worst casualty on record is a gate (File 09).
 - Humour boundary (BLOCKBUSTER_CUT §9.7) enforced by the drop table: voice-memo
   items cannot drop in or within one mission of any victim-adjacent content.
 - All intercepts are in-world fiction; the Meridian analyst's notes are the only
