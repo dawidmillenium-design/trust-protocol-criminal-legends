@@ -23,20 +23,14 @@ original trinity — **Blackhujus** (Tank/Brute), **Mr. PING** (Rogue/Acrobat) a
 - **Enemies:** Cartel Guards (melee), Gunners (range 4, line of sight), El Capo (boss).
 - **Terrain:** water costs double movement; crates and walls block movement and shots;
   banana peels stun the next enemy that steps on them.
-- **Trust is a combat stat:** ≥70% grants +2 damage, <30% inflicts -2. Heroes that
-  fall cost the crew -12 trust.
+- **Trust is a combat stat:** ≥70% grants +2 damage, <30% inflicts -2. He
 
-## Traits & legacy (examples)
-Bonded (+1 dmg), Opportunist (+2 dmg), Loyal (+1 armor), Scarred (-1 armor, +2 dmg),
-Soaked Boots (-1 move this battle), Banana Hoarder (peel range 6), Rivalry (+3 vs El Capo)…
-
-## Run locally
-```bash
-python -m http.server 8000
-```
-Then open `http://localhost:8000`.
-
-## Files
-- `index.html` — shell, ability bar, story overlays
-- `style.css` — tactical UI theme
-- `game.js` — engine: grid, pathfinding, LOS, turn system, AI, events, chronicle
+## Campaign 2 — "GREEN MEMORY"
+- **`docs/SCENARIO_INTERCONTINENTAL_RING.md`** — the full campaign bible: seven acts,
+  26 missions, 18 side-threads, fictional-only guardrails, data schema.
+- **`docs/BLOCKBUSTER_CUT.md`** — the cinematic treatment: trilogy structure
+  (THE CHAIN / THE MEMORY / THE CHAIR), playable cold open M0 "The Receipt",
+  act-by-act poster taglines and set-piece staging, a 90-second teaser-trailer
+  shot list, poster language for the three hero key arts, and the score bible —
+  with a guardrail-compliance checklist. Pitch: *"Steal the ledger before the
+  ledger steals your memory."*
