@@ -189,6 +189,13 @@ ul {
   box-shadow: 0 0 0 2px rgba(255,255,255,0.12);
 }
 
+.team-role {
+  font-size: 0.75rem;
+  color: var(--muted);
+  opacity: 0.85;
+  margin: -4px 0 4px 22px;
+}
+
 .status-pill {
   font-size: 0.75rem;
   padding: 4px 8px;
